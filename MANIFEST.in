@@ -1,0 +1,9 @@
+include AUTHORS
+include CHANGELOG
+include LICENSE
+include MANIFEST.in
+include mailmotiond
+include README.md
+include setup.py
+recursive-include cfg/*
+recursive-include Mailmotiond/*
